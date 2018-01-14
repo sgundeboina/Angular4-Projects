@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Description": "Leaf rake with 48-inch wooden handle.",
+    "ProductCode": "GDN-0015",
+    "ProductName": "Leaf Rake",
+    "Price": 19.95,
+    "StarRating": 3.2,
+    "Category": "Garden",
+    "ReleaseDate": "2016-03-19T00:00:00",
+    "ImageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png",
+    "Tags": [
+      "rake",
+      "leaf",
+      "yard",
+      "home"
+    ]
+  },
+  {
+    "Id": 5,
+    "Description": "Curved claw steel hammer",
+    "ProductCode": "TBX-0048",
+    "ProductName": "Hammer",
+    "Price": 8.9,
+    "StarRating": 4.8,
+    "Category": "Toolbox",
+    "ReleaseDate": "2016-05-21T00:00:00",
+    "ImageUrl": "http://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png",
+    "Tags": [
+      "tools",
+      "hammer",
+      "construction"
+    ]
+  },
+  {
+    "Id": 8,
+    "Description": "15-inch steel blade hand saw",
+    "ProductCode": "TBX-0021",
+    "ProductName": "Saw",
+    "Price": 11.55,
+    "StarRating": 3.7,
+    "Category": "Toolbox",
+    "ReleaseDate": "2016-05-15T00:00:00",
+    "ImageUrl": "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png",
+    "Tags": null
+  },
+  {
+    "Id": 10,
+    "Description": "Standard two-button video game controller",
+    "ProductCode": "GMG-0042",
+    "ProductName": "Video Game Controller",
+    "Price": 35.95,
+    "StarRating": 4.6,
+    "Category": "Gaming",
+    "ReleaseDate": "2015-10-15T00:00:00",
+    "ImageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png",
+    "Tags": [
+      "test",
+      "asd"
+    ]
+  }
+]
