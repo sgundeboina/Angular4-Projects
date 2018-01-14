@@ -1,0 +1,2 @@
+Install BootStrap: https://github.com/valor-software/ngx-bootstrap/blob/development/docs/getting-started/ng-cli.md
+
